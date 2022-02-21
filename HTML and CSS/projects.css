@@ -112,7 +112,7 @@ body {
   }
 
   .projectbox3-info {
-    width: 21.5625rem;
+    width: 43.125rem; /* width of gray project box */ 
     height: 5.25rem;
     background-color: #f3f3f3f9;
     margin: auto;

@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .nav {
+    overflow: hidden;
+  }
+  
+  .nav a {
+    float: left;
+    color: #999;
+    padding: 0.875rem 1rem;
+    position: relative; 
+    top: 0.4375rem;
+    text-decoration: none;
+    font-size: 1.0625rem;
+  }
+  
+  .nav a:hover {
+    color: #191919;
+  }
+  
+  .nav a.active {
+    color: #191919;
+    font-weight: bold;
+  }
+
+/* .head h1 {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    padding: 1.25rem;
+    font-size: 1.625rem;
+  } */
+  
+  .head p {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    padding: 1.25rem;
+    position: relative;
+    top: -1.5625rem;
+    font-size: 0.875rem;
+    color: #999;
+  }
+
+.about-photo {
+    text-align: center;
+    position: relative;
+    bottom: -0.625rem;
+}
+
+.about p {
+    text-align: center;
+    margin: auto;
+    color: #A9A9A9; 
+    font-size: 0.875rem;
+    font-weight: lighter;
+    line-height: 1.1875rem;
+    position: relative;
+    top: 1.5rem;
+}

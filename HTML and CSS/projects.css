@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .nav {
+    overflow: hidden;
+  }
+  
+  .nav a {
+    float: left;
+    color: #999;
+    padding: 0.875rem 1rem;
+    position: relative; 
+    top: 0.4375rem;
+    text-decoration: none;
+    font-size: 1.0625rem;
+  }
+  
+  .nav a:hover {
+    color: #191919;
+  }
+  
+  .nav a.active {
+    color: #191919;
+    font-weight: bold;
+  }
+  
+  .head h1 {
+    text-align: center;
+    margin: auto;
+    padding: 1.25rem;
+    font-size: 1.625rem;
+  }
+  
+  .head p {
+    text-align: center;
+    margin: auto;
+    padding: 1.25rem;
+    position: relative;
+    top: -1.5625rem;
+    font-size: 0.875rem;
+    color: #999;
+  }
+  
+  .box-wrapper {
+    text-align: center;
+  }
+
+  .projectbox-info {
+    width: 21.5625rem;
+    height: 5.25rem;
+    background-color: #f3f3f3f9;
+    margin: auto;
+    position: relative;
+    top: -0.25rem;
+  }
+
+  .app-name {
+    font-size: 0.875rem;
+    color: #191919;
+    position: relative;
+    top: -5.0625rem;
+  }
+
+  .date {
+    font-size: 0.875rem;
+    color: #999;
+    position: relative;
+    top: -5.5rem;
+  }
+
+  .box-wrapper-2 {
+    text-align: center;
+  }
+
+  .projectbox2-image {
+    position: relative;
+    top: -3.125rem;
+  }
+
+  .projectbox2-info {
+    width: 21.5625rem;
+    height: 5.25rem;
+    background-color: #f3f3f3f9;
+    margin: auto;
+    position: relative;
+    top: -3.375rem;
+  }
+
+  .app-name-2 {
+    font-size: 0.875rem;
+    color: #191919;
+    position: relative;
+    top: -8.1875rem;
+  }
+
+  .date-2 {
+    font-size: 0.875rem;
+    color: #999;
+    position: relative;
+    top: -8.625rem;
+  }
+
+  .box-wrapper-3 {
+    text-align: center;
+  }
+
+  .projectbox3-image {
+    position: relative;
+    top: -6.25rem;
+  }
+
+  .projectbox3-info {
+    width: 21.5625rem;
+    height: 5.25rem;
+    background-color: #f3f3f3f9;
+    margin: auto;
+    position: relative;
+    top: -6.5rem;
+  }
+
+  .app-name-3 {
+    font-size: 0.875rem;
+    color: #191919;
+    position: relative;
+    top: -11.3125rem;
+  }
+
+  .date-3 {
+    font-size: 0.875rem;
+    color: #999;
+    position: relative;
+    top: -11.75rem;
+  }

@@ -30,7 +30,7 @@ body {
     text-align: center;
     margin: auto;
     padding: 1.25rem;
-    font-size: 1.625rem;
+    font-size: 3rem;
   }
   
   .head p {
@@ -39,7 +39,7 @@ body {
     padding: 1.25rem;
     position: relative;
     top: -1.5625rem;
-    font-size: 0.875rem;
+    font-size: 1.0rem;
     color: #999;
   }
   

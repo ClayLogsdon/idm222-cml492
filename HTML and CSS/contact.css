@@ -50,6 +50,7 @@ body {
   position: relative;
   width: 28rem;
   top: 0.9375rem;
+  padding: 1rem;
 }
 
   input[type=text], select, textarea {
